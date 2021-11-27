@@ -1,0 +1,15 @@
+.mainfilter {
+    width: 60%;
+    border: black;
+}
+
+
+
+.zero {
+    width:0px;
+}
+
+.form-group {
+    width: 100% !important;
+}
+
